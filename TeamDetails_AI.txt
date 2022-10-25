@@ -1,11 +1,10 @@
-Fill in the details (should be same as those while registering for CNI Hackathon):
 
-Team Name:
+Team Name: LEGENDBYTES
 
-Team Member 1: (Assumed to be the team lead, by default)
-Name: 
-Email ID: 
+Team Member 1: 
+Name: PRATHAM PAWALE
+Email ID: prathampawale.pp.pp@gmail.com
 
 Team Member 2:
-Name: 
-Email ID: 
+Name:  UPENDRA TARAL
+Email ID: uptaral21@gmail.com
